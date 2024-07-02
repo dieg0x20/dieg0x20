@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Meu nome é Diego Francisco, comecei a estudar progamaçao com 12 anos  e atualmente estou cursando Ciência da Computação.</h2>
+<h2 align="left">Hi 👋! My name is Diego Francisco, I'm studying Computer Science with a strong focus on cyber security</h2>
 
 ###
 
