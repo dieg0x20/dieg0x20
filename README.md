@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Diego Francisco, I'm studying Computer Science with a strong focus on cyber security</h2>
+<h2 align="left">Salve sou o Diego, Nascido e criado no estado de Minas Gerais, e desde cedo tive uma fascinação por tecnologia e computadores. Essa paixão me levou a escolher a cibersegurança como minha futura carreira. Atualmente, estou cursando Ciências da Computação, onde continuo me aprofundando no mundo da segurança digital e tecnologia da informação.</h2>
 
 ###
 
-<img align="right" height="150" src="https://img.wattpad.com/f31783d4e68a34b48d059ab9cf852a86315490b1/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f534e786246424f434957385a41773d3d2d3137392e313661316431643033303537643530613433343430333730343733352e676966"  />
+<img align="right" height="150" src="https://lh4.googleusercontent.com/-uQFL21zD5ak/AAAAAAAAAAI/AAAAAAAAAHs/y-mV45nj_K8/photo.jpg"/>
 
 ###
 
