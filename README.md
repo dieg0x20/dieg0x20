@@ -1,4 +1,4 @@
-<h2 align="left">Salve sou o Diego, desde cedo tive uma fascinação por tecnologia e computadores. Essa paixão me levou a escolher a cibersegurança como minha futura carreira. Atualmente, estou cursando Ciências da Computação, onde continuo me aprofundando no mundo da segurança digital e tecnologia da informação.</h2>
+<h2 align="left">Salve sou o Diego, cursando Ciências da Computação,</h2>
 
 ###
 
