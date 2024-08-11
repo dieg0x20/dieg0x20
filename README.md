@@ -1,7 +1,7 @@
 <h2 align="left">Salve sou o Diego</h2>
 
 ###
-Ferramentas e Tecnologias:
+Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -22,6 +22,11 @@ Ferramentas e Tecnologias:
 <a href="https://instagram.com/diego0x20" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:diego444x@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+###
+
+Comunidade de estudos 
+<a href="https://lowsec-community.vercel.app">
 
 ###
 
