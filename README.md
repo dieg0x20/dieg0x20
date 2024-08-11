@@ -27,7 +27,7 @@ Skills
 
 Comunidade de estudos 
 
-<a href="https://lowsec-community.vercel.app" target="_blank">LowSex</a>
+<a href="https://lowsec-community.vercel.app" target="_blank">LowSec-community</a>
 
 ###
 
