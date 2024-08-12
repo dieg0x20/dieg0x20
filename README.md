@@ -25,8 +25,6 @@ Skills
 
 ###
 
-Comunidade de estudos 
-
 <a href="https://lowsec-community.vercel.app" target="_blank">LowSec-community</a>
 
 ###
