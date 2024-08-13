@@ -29,7 +29,7 @@ Skills
 
 ###
 
-<img align="left" height="200" src="EHil.gif"/>
+            <img src="https://cdn.betterttv.net/emote/5805580c3d506fea7ee357d6/3x">
 
 ###
 
