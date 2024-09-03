@@ -1,7 +1,13 @@
 <h2 align="left">Salve sou o Diego</h2>
 
 ###
-Skills
+
+- 🔒 Entusiasta de Cibersegurança
+- 🖥️ Programador Web Backend
+- 🐧 Usuário de Linux
+- 🥇 Competitive Programming
+- ☕ Vai um cafézin ae?
+
 <div align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -10,12 +16,6 @@ Skills
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
-
-###
-OS
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 ## Contatos:
